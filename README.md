@@ -79,6 +79,9 @@
 * [Commodity Markets](https://www.worldbank.org/en/research/commodity-markets)
 * [Sustainable Development Goals 2023](https://github.com/sdga2023)
 
+### UNESCO
+* [World Heritage List](https://data.unesco.org/explore/dataset/whc001/export/?flg=en-us&utm_source=najielkotob) - data.unesco.org
+
 ### World Population Review
 * [Average Books Read Per Year by Country](https://worldpopulationreview.com/country-rankings/average-books-read-per-year-by-country)
 
