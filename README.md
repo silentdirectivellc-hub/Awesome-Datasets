@@ -324,6 +324,10 @@
 
 -----
 
+## Synthetic Datasets
+* [Synthetic Datasets for Data Science Education](https://github.com/leventbulut/synthetic-datasets)
+
+
 ## Python Libraries
 * [Seaborn Data (GitHub)](https://github.com/mwaskom/seaborn-data)
 
